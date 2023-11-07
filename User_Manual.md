@@ -1,7 +1,14 @@
 # Proyecto III Algoritmos - Manejo de archivos, interfaz grafica, cajas de texto, etiquetas, entre otros
 ## Manual de Usuario
 
-1. Abra Visual Studio Code.
+1. Seleccionar el archivo 7690-20-15950_Proyecto_No.III_Algoritmos_V1.03_11.07.2023.py.
 
+ ![image](https://github.com/nelssant/Proyecto_No.III/assets/143784580/100fb96f-21f3-424f-b469-47b89d49835e)
 
-   ![image](https://github.com/nelssant/Proyecto_No.III/assets/143784580/41570fe9-4251-4b15-b57e-5a3c50a3dad6)
+2. Dar click derecho sobre el archivo.
+3. Seleccionar abrir con.
+4. Seleccionar Visual Studio Code.
+![image](https://github.com/nelssant/Proyecto_No.III/assets/143784580/b5371e89-aea2-4f1b-ab93-8dab95800f5f)
+
+5. 
+
