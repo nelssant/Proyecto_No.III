@@ -1,6 +1,6 @@
-### Proyecto III
+# Proyecto III
 
-# Introducción
+## Introducción
 Este programa utiliza algunos algunas librerias y atributos. El usuario podra inicializar la aplicación dando click al botón ejecutar en su editor de texto; la aplicacion mostrará una interfaz gráfica con forma de ventana la cual incluye algunas opciones de personalizacion:
   - Archivo:
       - Muestra las opciones: Abrir, Guardar y Guardar como.
