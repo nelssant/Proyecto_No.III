@@ -8,7 +8,8 @@
 2. Dar click derecho sobre el archivo.
 3. Seleccionar abrir con.
 4. Seleccionar Visual Studio Code.
-![image](https://github.com/nelssant/Proyecto_No.III/assets/143784580/b5371e89-aea2-4f1b-ab93-8dab95800f5f)
+![image](https://github.com/nelssant/Proyecto_No.III/assets/143784580/0a1e933e-9ced-4153-969f-c9d1cfff61e7)
+
 
 5. 
 
