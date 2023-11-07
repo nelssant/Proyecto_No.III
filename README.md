@@ -14,4 +14,3 @@ Este programa utiliza algunos algunas librerias y atributos. El usuario podra in
               - Términos y condiciones.
               - Documentación: Se despliega una lista de tres items; El enlace del repositorio Github, Manual de Usuario y Manual Técnico (Todos estan cargados en Github).
 
-#Funciones y Estructuras
