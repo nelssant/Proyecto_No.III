@@ -1,4 +1,4 @@
-# Proyecto III
+# Proyecto III Algoritmos - Manejo de archivos, interfaz gráfica, cajas de texto, etiquetas, entre otros
 
 ## Introducción
 Este programa utiliza algunos algunas librerias y atributos. El usuario podra inicializar la aplicación dando click al botón ejecutar en su editor de texto; la aplicacion mostrará una interfaz gráfica con forma de ventana la cual incluye algunas opciones de personalizacion:
