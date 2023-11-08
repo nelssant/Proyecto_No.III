@@ -135,5 +135,5 @@
           
 ![image](https://github.com/nelssant/Proyecto_No.III/assets/143784580/a2686437-f9b3-4173-af06-e63b9efee5f7)
 
-© [2023] [Nelson Santos // Rubén García]
-Todos los derechos reservados. Este manual de usuario está protegido por derechos de autor. Ninguna parte de este manual puede ser reproducida, almacenada en un sistema de recuperación o transmitida de ninguna forma o por ningún medio, ya sea electrónico, mecánico, fotocopiado, grabación o cualquier otro, sin el permiso previo por escrito del titular de los derechos de autor.
+Copyright © 2023 Nelson Santos // Rubén García. Todos los derechos reservados. Este manual de usuario está protegido por derechos de autor. Ninguna parte de este manual puede ser reproducida, almacenada en un sistema de recuperación o transmitida de ninguna forma o por ningún medio, ya sea electrónico, mecánico, fotocopiado, grabación o cualquier otro, sin el permiso previo por escrito del titular de los derechos de autor.
+
