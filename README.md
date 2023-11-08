@@ -19,7 +19,10 @@ Este programa utiliza algunos algunas librerias y atributos. El usuario podra in
   -Información:
   
   - Muestra las opciones:
-              - Acerca de: Se despliega una lista de dos items; Detalle del sistema e Integrantes.
-              - Términos y condiciones.
-              - Documentación: Se despliega una lista de tres items; El enlace del repositorio Github, Manual de Usuario y Manual Técnico (Todos estan cargados en Github).
+    
+      - Acerca de: Se despliega una lista de dos items; Detalle del sistema e Integrantes.
+        
+      - Términos y condiciones.
+        
+      - Documentación: Se despliega una lista de tres items; El enlace del repositorio Github, Manual de Usuario y Manual Técnico (Todos estan cargados en Github).
 
