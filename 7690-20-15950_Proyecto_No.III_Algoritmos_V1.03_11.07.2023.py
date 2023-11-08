@@ -60,6 +60,7 @@ class TextEditorApp:
         self.Documentation_menu.add_command(label="Enlace Github", command=self.open_github_documentation)
         self.Documentation_menu.add_command(label="Manual de usuario", command=self.open_user_manual)
         self.Documentation_menu.add_command(label="Manual técnico", command=self.open_technical_manual)
+        self.Documentation_menu.add_command(label="Video", command=self.open_youtube)
 
         self.current_file = None
 
@@ -197,7 +198,9 @@ Instrucciones de uso:
 # Link de acceso para los integrantes del grupo
     def open_Develoment_in_Python(self):
         webbrowser.open("https://miumg.instructure.com/groups/206218/users")
-
+# Link de acceso para el video    
+    def open_youtube(self):
+        webbrowser.open("https://www.youtube.com/watch?v=JN7II4N-mRg&feature=youtu.be")
 # Mantener abierta la intefaz grafica        
 if __name__ == "__main__":
     root = tk.Tk()
