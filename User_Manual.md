@@ -89,5 +89,51 @@
 
    **Nota:** Esta opción permite al usuario guardar una copia del archivo que se está modificando, de esta forma el usuario decide un nuevo nombre y nueva extensión.
 
-   
-   
+   ### Soporte e Información:
+
+   - Acerca del sistema (Licencia, Versión, Autor, Instrucciones generales):
+        - Seleccionar la opción Información.
+             - Acerca de:
+                  - Detalle de Sistema
+            
+   ![image](https://github.com/nelssant/Proyecto_No.III/assets/143784580/27353d0c-986d-4ccd-ab01-b5ae209a2731)
+
+   - Acerca del autor (Integrantes)
+        - Seleccionar la opción Información.
+             - Acerca de:
+                  - Integrantes.
+
+  ![image](https://github.com/nelssant/Proyecto_No.III/assets/143784580/64a3a4b3-11b9-4d91-ae53-cb1e6c611145)
+
+  - Términos y condiciones:
+     - Seleccionar la opción Información.
+         - Términos y Condiciones
+           
+![image](https://github.com/nelssant/Proyecto_No.III/assets/143784580/e426cedb-c48a-445d-ac0b-c5bea74ac519)
+
+  - Documentación General:
+     - Seleccionar la opción Información.
+         - Documentación.
+             - Enlace GitHub
+
+![image](https://github.com/nelssant/Proyecto_No.III/assets/143784580/357076f2-713f-4054-b51e-1fce6e9e71c9)
+
+          
+**Nota:** Este enlace devolvera la página principal de GIthub (Información General)
+
+  - Documentación para el usuario:
+     - Seleccionar la opción Información.
+         - Documentación.
+             - Manual de Usuario.
+          
+![image](https://github.com/nelssant/Proyecto_No.III/assets/143784580/99917843-e709-438f-843a-d63de5a31811)
+
+  - Documentación para el técnico:
+     - Seleccionar la opción Información.
+         - Documentación.
+             - Manual de Técnico.
+          
+![image](https://github.com/nelssant/Proyecto_No.III/assets/143784580/a2686437-f9b3-4173-af06-e63b9efee5f7)
+
+© [2023] [Nelson Santos // Rubén García]
+Todos los derechos reservados. Este manual de usuario está protegido por derechos de autor. Ninguna parte de este manual puede ser reproducida, almacenada en un sistema de recuperación o transmitida de ninguna forma o por ningún medio, ya sea electrónico, mecánico, fotocopiado, grabación o cualquier otro, sin el permiso previo por escrito del titular de los derechos de autor.
