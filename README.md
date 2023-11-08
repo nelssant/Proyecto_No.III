@@ -133,10 +133,10 @@ El cádigo se subdivide en varios bloques:
 **Para más información sobre el uso de la aplicacón, consulte [el manual de usuario](https://github.com/nelssant/Proyecto_No.III/blob/main/User_Manual.md)**
 # Créditos:
 
-| Carnet | Nombres y Apellidos | Nombre del grupo |
-|---------------|--------------|--------------|
-| 7690-23-21898 | Celda 1,2   | Celda 1,3   |
-| 7690-20-15950 | Celda 2,2   | Celda 2,3   |
+| Carnet        | Nombres y Apellidos             | Nombre del grupo                    |
+|---------------|---------------------------------|-------------------------------------|
+| 7690-23-21898 | Ruben Gerardo García Hernández  | Development_in_Python_Project_III   |
+| 7690-20-15950 | Nelson Saúl Santos Veliz        | Development_in_Python_Project_III   |
 
 
 # Mejora Continua:
