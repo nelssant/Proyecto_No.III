@@ -138,6 +138,7 @@ El cádigo se subdivide en varios bloques:
 | 7690-23-21898 | Ruben Gerardo García Hernández  | Development_in_Python_Project_III   |
 | 7690-20-15950 | Nelson Saúl Santos Veliz        | Development_in_Python_Project_III   |
 
+[Explicación audiovisual](https://www.youtube.com/watch?v=JN7II4N-mRg&feature=youtu.be)
 
 # Mejora Continua:
 
