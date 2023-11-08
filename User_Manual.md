@@ -51,12 +51,43 @@
   - Seleccionar el tamaño preferido hasta un máximo de 72.
     
   ![image](https://github.com/nelssant/Proyecto_No.III/assets/143784580/d7faa1ec-ed39-46ab-8f74-9ae977a923b6)
-- Cambiar Tamaño de Fuente:
+- Cambiar Color de Fuente:
      - Seleccionar configuración:
-          - Seleccionar Tamaño de Letra.
+          - Seleccionar Color de Letra.
   
-  ![image](https://github.com/nelssant/Proyecto_No.III/assets/143784580/3326537e-6891-45e4-a330-99fbb51bd38b)
-  
+  ![image](https://github.com/nelssant/Proyecto_No.III/assets/143784580/ca2ad1f3-5405-4310-abec-00b3791f6932)
+
    - Seleccionar el color preferido.
-   
+ 
+  ![image](https://github.com/nelssant/Proyecto_No.III/assets/143784580/66e95708-4e18-4b53-94d0-40b1509694fd)
+
+  - Cambiar Color de Relleno:
+     - Seleccionar configuración:
+          - Seleccionar Color de Relleno.
   
+  ![image](https://github.com/nelssant/Proyecto_No.III/assets/143784580/5fe645e3-54f4-47a5-a3f8-85f0b234cafb)
+
+   - Seleccionar el color preferido.
+
+ ![image](https://github.com/nelssant/Proyecto_No.III/assets/143784580/90a6b631-447d-4914-a5bc-3f3f773742ff)
+
+ ### Guardar Archivo:
+ 
+ - Opción Guardar:
+     - Seleccionar la opción Archivo.
+         - Presionar el botón Guardar.
+      
+    ![image](https://github.com/nelssant/Proyecto_No.III/assets/143784580/0a217cf4-144a-4372-9a09-0ed3dea59294)
+
+ **Nota:** Este apartado funcionaá unicamente cuando se abra un archivo ya que solo servirá para guardar los cambios en ese mismo archivo.
+
+ - Opción Guardar Como:
+     - Seleccionar la opción Archivo.
+         - Presionar el botón Guardar.
+           
+    ![image](https://github.com/nelssant/Proyecto_No.III/assets/143784580/fdd98c94-72ab-49e8-9288-067bb52d6cf8)
+
+   **Nota:** Esta opción permite al usuario guardar una copia del archivo que se está modificando, de esta forma el usuario decide un nuevo nombre y nueva extensión.
+
+   
+   
