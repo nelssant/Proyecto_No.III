@@ -38,6 +38,7 @@
           - Seleccionar color de fondo.
   
  ![image](https://github.com/nelssant/Proyecto_No.III/assets/143784580/764b7bd5-361f-48f5-b99c-519eaa944bed)
+ 
           - Seleccionar el color preferido.
   ![image](https://github.com/nelssant/Proyecto_No.III/assets/143784580/bc14b353-c29e-45e9-8af4-68e920678a82)
 - Cambiar Tamaño de Fuente:
@@ -45,6 +46,7 @@
           - Seleccionar Tamaño de Letra.
    
   ![image](https://github.com/nelssant/Proyecto_No.III/assets/143784580/3326537e-6891-45e4-a330-99fbb51bd38b)
+  
           - Seleccionar el tamaño preferido hasta un máximo de 72.
   ![image](https://github.com/nelssant/Proyecto_No.III/assets/143784580/d7faa1ec-ed39-46ab-8f74-9ae977a923b6)
 - Cambiar Tamaño de Fuente:
@@ -52,6 +54,7 @@
           - Seleccionar Tamaño de Letra.
   
   ![image](https://github.com/nelssant/Proyecto_No.III/assets/143784580/3326537e-6891-45e4-a330-99fbb51bd38b)
+  
           - Seleccionar el color preferido.
    
   
