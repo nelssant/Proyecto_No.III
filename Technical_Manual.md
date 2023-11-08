@@ -63,7 +63,8 @@
 
 ![image](https://github.com/nelssant/Proyecto_No.III/assets/143784580/4bdadfcc-ed2c-477d-a202-e740535d067b)
 
-      
-      -
   
-9. 
+9. Buscar las extensiones de Python e instalar el paquete.
+
+![image](https://github.com/nelssant/Proyecto_No.III/assets/143784580/ee2e7995-cad6-4318-94ed-811b09953de7)
+
