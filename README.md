@@ -130,7 +130,7 @@ El cádigo se subdivide en varios bloques:
     root.mainloop()
 ```
 
-**Para más información sobre el uso de la aplicacón, consulte [el manual de usuario](https://github.com/nelssant/Proyecto_No.III/blob/main/Technical_Manual.md)**
+**Para más información sobre el uso de la aplicacón, consulte [el manual de usuario](https://github.com/nelssant/Proyecto_No.III/blob/main/User_Manual.md)**
 
 # Mejora Continua:
 
