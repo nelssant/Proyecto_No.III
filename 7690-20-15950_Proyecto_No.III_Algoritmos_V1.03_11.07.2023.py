@@ -180,19 +180,19 @@ Instrucciones de uso:
 
 # Link de acceso para la documentacion (Repositorio)
     def open_github_documentation(self):
-        webbrowser.open("https://github.com/nelssant/ProyectoI")
+        webbrowser.open("https://github.com/nelssant/Proyecto_No.III/blob/main/README.md")
 
 # Link de acceso para el manual de usuario
     def open_user_manual(self):
-        webbrowser.open("https://github.com/nelssant/ProyectoI/blob/main/7690-20-15950_Proyecti_No.1_V1.0_09.01.2023.py")
+        webbrowser.open("https://github.com/nelssant/Proyecto_No.III/blob/main/User_Manual.md")
 
 # Link de acceso para el manual tecnico
     def open_technical_manual(self):
-        webbrowser.open("https://github.com/nelssant/ProyectoI/blob/main/7690-20-15950_Proyecti_No.1_V1.0_09.01.2023.py")
+        webbrowser.open("https://github.com/nelssant/Proyecto_No.III/blob/main/Technical_Manual.md")
 
 # Link de acceso para los terminos y condiciones
     def open_terms_and_Conditions(self):
-        webbrowser.open("https://github.com/nelssant/ProyectoI/blob/main/7690-20-15950_Proyecti_No.1_V1.0_09.01.2023.py")
+        webbrowser.open("https://github.com/nelssant/Proyecto_No.III/blob/main/Terms_and_Conditions.md")
 
 # Link de acceso para los integrantes del grupo
     def open_Develoment_in_Python(self):
